@@ -1,0 +1,39 @@
+[
+    {
+      "id": "01",
+      "name": "Neural Networks",
+      "url": "https://img.freepik.com/free-photo/polygonal-blue-abstract-background-shapes-network-neural-connections-big-data-neural-concept_90220-514.jpg?w=1060&t=st=1666728205~exp=1666728805~hmac=06ba04195810bf0bc4d63ba062c095557bb9273ac67d904fa2ad9e1b946f8ba2",
+      "description": "An extensive course on neural network architectures and learning algorithms with theory and applications. Temporal and optimal linear associative memories, fuzzy control. Cohen-Grossberg theorem. Unsupervised learning. Higher-order competitive, differential Hebbian learning networks. Supervised learning. Adaptive estimation and stochastic approximation. Adaptive vector quantization, mean-square approach. Kohonen self-organizing maps. Grossberg theory. Simulated annealing. Boltzman and Cauchy learning. Adaptive resonance. Gabor functions and networks."
+    },
+    {
+      "id": "02",
+      "name": "Machine Learning",
+      "url" : "https://img.freepik.com/free-vector/innovative-medicine-abstract-composition-with-android-image-demonstrating-elements-medical-hud-interface-vector-illustration_1284-30745.jpg?w=900&t=st=1666728414~exp=1666729014~hmac=0668199cbeb5b46416ba80cbfa78df98867c400446142b959ac150f54896e63c",
+      "description": "Introduction to machine learning; Supervised and reinforcement learning; Unsupervised learning algorithms; Attribute based and relational supervised learning algorithms; Neural network based learning algorithms; Genetic algorithm and genetic programming; Reinforcement learning algorithms; Computational learning theory."
+    },
+    {
+      "id": "03",
+      "name": "Programming Language",
+      "url":"https://wallpaperaccess.com/full/5673719.jpg",
+      "description":"This course would be an introduction to the foundations of computation and purpose of mechanized computation. Emphasis will be placed on techniques of problem analysis and the development of algorithms and programs.The course includes a compulsory 3 hour laboratory work each week. Students will be expected to do homework assignments in problem solving and program design as well as weekly laboratory assignments to reinforce the lecture material."
+    },
+    {
+      "id": "04",
+      "name": "Data Structures",
+      "url":"https://dmlab.edu.gr/assets/media/2020/04/Data_Structures_Algorithms.jpg",
+      "description":"Introduction to widely used and effective methods of data organisation, focussing on data structures, their algorithms and the performance of these algorithms. Concepts and examples, elementary data objects, elementary data structures, arrays, lists, stacks, queues, graphs, trees, compound structures, data abstraction and primitive operations on these structures. memory management; sorting and searching; hash techniques; Introduction to the fundamental algorithms and data structures: recursion, backtrack search, lists, stacks, queues, trees, operation on sets, priority queues, graph dictionary. Introduction to the analysis of algorithms to process the basic structures."
+    },
+    {
+      "id": "05",
+      "name": "Algorithtms",
+      "url" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming-1.jpg",
+      "description": "The study of efficient algorithms and effective algorithm design techniques. Techniques for analysis of algorithms, Methods for the design of efficient algorithms :Divide and Conquer paradigm, Greedy method, Dynamic programming, Backtracking, Basic search and traversal techniques, Graph algorithms, Elementary parallel algorithms, Algebraic simplification and transformations, Lower bound theory, NP-hard and NP-complete problems. Techniques for the design and analysis of efficient algorithms, Emphasising methods useful in practice. sorting; Data structures for sets: Heaps, Hashing; Graph algorithms: Shortest paths, Depth-first search, Network flow, Computational geometry; Integer arithmetic: gcd, primality; polynomial and matrix calculations; amortised analysis"
+    },
+    {
+      "id": "06",
+      "name": "Operating Systems",
+      "url":"https://techiegenie.com/wp-content/uploads/2020/12/Top-10-Best-Operating-Systems-for-Laptops-and-Computers-4.jpg",
+      "description" : "Principles of operating systems: design objects; sequential process; concurrent processes, functional mutual exclusion, processor co-operation and deadlocks, management. Control and scheduling of large information processing systems. Dispatching processor access methods, job control languages memory addressing, paging and store multiplexing, and time sharing, batch processing. Scheduling algorithms, file systems, and security; semaphores and critical sections, device drivers, multiprocessing, sharing, design and implementation methodology, performance evaluation and case studies. The course includes a compulsory 3 hour laboratory work each week."
+    }
+   
+  ]
